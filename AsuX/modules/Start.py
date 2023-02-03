@@ -1,8 +1,3 @@
-"""
-ɢɪᴛʜᴜʙ -Abishnoi69
-ᴛᴇʟᴇɢʀᴀᴍ @Abishnoi1M / @Abishnoi_bots 
-"""
-
 from telegram import InlineKeyboardButton, InlineKeyboardMarkup, Update
 from telegram.ext import CommandHandler, ContextTypes
 
@@ -16,7 +11,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     akboss.append(
         [
             InlineKeyboardButton(
-                text="ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕",
+                text="➕ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕",
                 url=f"http://t.me/{context.bot.username}?startgroup=true",
             )
         ]
