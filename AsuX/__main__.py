@@ -1,9 +1,3 @@
-"""
-ɢɪᴛʜᴜʙ -: Abishnoi69
-ᴛᴇʟᴇɢʀᴀᴍ -: @Abishnoi1M / @Abishnoi_bots 
-"""
-
-
 import importlib
 import logging
 
